@@ -12,8 +12,8 @@ Packages are built for Ubuntu 24.04 on x86-64.
    your password.
 
    ```sh
-   mkdir canopy && tar -xzf canopy-linux-x86_64.tar.gz -C canopy
-   cd canopy
+   tar -xzf canopy-linux-x86_64.tar.gz
+   cd ss-client-linux-x86_64
    ./install.sh
    ```
 
