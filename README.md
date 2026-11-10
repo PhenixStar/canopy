@@ -41,8 +41,8 @@ Android asks. Then enter your recorder's address and sign in with your own Synol
    **Run anyway**.
 4. Enter your recorder's address and sign in with your own Synology account.
 
-The newest build is from 10 November 2026. It opens and runs on Windows 11, but signing in to a
-recorder and video have not been tested on a Windows PC yet.
+The newest build is an 11 November 2026 preview. Video plays on the graphics card (AMD, Intel or
+NVIDIA), and signing in and live video were checked on a Windows 11 touch laptop.
 
 ## macOS
 
